@@ -1,0 +1,25 @@
+* {
+    outline: 0;
+}
+
+html, body {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background: #f0f0f0;
+}
+
+.navbar {
+    border-radius: 0;
+}
+
+.navbar-brand {
+    font-family: 'Bungee Shade', cursive;
+    transition: color .3s;
+}
+
+p {
+    font-family: 'Josefin Sans', sans-serif;
+}
